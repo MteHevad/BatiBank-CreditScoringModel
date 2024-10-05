@@ -1,7 +1,7 @@
 # BatiBank-CreditScoringModel
-This repository contains the implementation of a **Credit Scoring Model** for Bati Bank as part of the **10 Academy AI Mastery Week 6 Challenge**. The model is designed to predict customer creditworthiness for a buy-now-pay-later (BNPL) service in partnership with an eCommerce platform. The goal is to categorize users into **high risk** (likely to default) or **low risk** (likely to repay), and predict loan amounts and durations.
 ---
 ## Project Overview
+This repository contains the implementation of a **Credit Scoring Model** for Bati Bank as part of the **10 Academy AI Mastery Week 6 Challenge**. The model is designed to predict customer creditworthiness for a buy-now-pay-later (BNPL) service in partnership with an eCommerce platform. The goal is to categorize users into **high risk** (likely to default) or **low risk** (likely to repay), and predict loan amounts and durations.
 Bati Bank seeks to provide a credit-scoring solution for its customers applying for credit on the eCommerce platform. This project involves:
 - **Understanding Credit Risk**: Researching credit risk and identifying factors to classify users.
 - **Exploratory Data Analysis (EDA)**: Analyzing the dataset to uncover patterns, distributions, and correlations.
